@@ -1,0 +1,6 @@
+{
+  "title": "Swissbib ISBN",
+  "name": "Swissbib ISBN",
+  "icon": "https://www.swissbib.ch/themes/sbvfrdsingle/images/favicon.ico",
+  "linktemplate": "https://www.swissbib.ch/Search/Results?lookfor={z:ISBN}"
+}
