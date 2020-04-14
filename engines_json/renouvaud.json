@@ -1,0 +1,6 @@
+{
+  "tite": "NEBIS Recherche",
+  "name": "NEBIS Recherche",
+  "icon": "https://recherche.nebis.ch/primo-explore/custom/NEBIS/img/library-logo.png",
+  "_urlTemplate": "https://sfx.ethz.ch/sfx_nebis?{z:openURL}"
+}
