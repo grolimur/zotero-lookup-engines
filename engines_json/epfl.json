@@ -1,5 +1,6 @@
 {
   "title": "EPFL",
   "name": "epfl",
+  "icon": "https://www.epfl.ch/wp-content/themes/wp-theme-2018/assets/favicons/favicon-16.png",
   "linktemplate": "http://sfx.ethz.ch/sfx_epfl?{z:openURL}"
 }
